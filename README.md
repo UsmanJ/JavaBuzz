@@ -1,5 +1,5 @@
 JavaBuzz
-------
+=======
 
 Synopsis
 ------
