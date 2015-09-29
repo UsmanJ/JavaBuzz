@@ -21,7 +21,7 @@ Clone the repository:
 
 $ git clone https://github.com/UsmanJ/JavaBuzz.git
 ```
-```
+
 Change into the directory and run the tests in your browser:
 ```
 $ cd JavaBuzz
